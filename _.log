@@ -1,0 +1,272 @@
+04-25-2024 18:16:57 InternalLoggerFactory.java DEBUG [main] logging.InternalLoggerFactory 89 - Using Log4J as the default logging framework
+04-25-2024 18:16:57 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 129 - -Dio.netty.leakDetection.level: simple
+04-25-2024 18:16:57 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 130 - -Dio.netty.leakDetection.targetRecords: 4
+04-25-2024 18:16:57 ResourceLeakDetectorFactory.java DEBUG [main] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@13d9cbf5
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 496 - -Dio.netty.noUnsafe: false
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 1000 - Java version: 8
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 137 - sun.misc.Unsafe.theUnsafe: available
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 161 - sun.misc.Unsafe.copyMemory: available
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 193 - sun.misc.Unsafe.storeFence: available
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 236 - java.nio.Buffer.address: available
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 307 - direct buffer constructor: available
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 385 - java.nio.Bits.unaligned: available, true
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 459 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+04-25-2024 18:16:57 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 482 - java.nio.DirectByteBuffer.<init>(long, int): available
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1159 - sun.misc.Unsafe: available
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1289 - -Dio.netty.tmpdir: C:\Users\Mansi\AppData\Local\Temp (java.io.tmpdir)
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1119 - Platform: Windows
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 178 - -Dio.netty.maxDirectMemory: 1886912512 bytes
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+04-25-2024 18:16:57 CleanerJava6.java DEBUG [main] internal.CleanerJava6 92 - java.nio.ByteBuffer.cleaner(): available
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 205 - -Dio.netty.noPreferDirect: false
+04-25-2024 18:16:57 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1010 - org.jctools-core.MpscChunkedArrayQueue: available
+04-25-2024 18:16:57 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+04-25-2024 18:16:57 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+04-25-2024 18:16:58 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 83 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+04-25-2024 18:16:58 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+04-25-2024 18:16:58 GlobalEventExecutor.java DEBUG [main] concurrent.GlobalEventExecutor 53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+04-25-2024 18:16:58 MultithreadEventLoopGroup.java DEBUG [main] channel.MultithreadEventLoopGroup 44 - -Dio.netty.eventLoopThreads: 8
+04-25-2024 18:16:58 NioEventLoop.java DEBUG [main] nio.NioEventLoop 110 - -Dio.netty.noKeySetOptimization: false
+04-25-2024 18:16:58 NioEventLoop.java DEBUG [main] nio.NioEventLoop 111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 157 - -Dio.netty.allocator.numHeapArenas: 8
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 158 - -Dio.netty.allocator.numDirectArenas: 8
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 160 - -Dio.netty.allocator.pageSize: 8192
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 165 - -Dio.netty.allocator.maxOrder: 9
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 169 - -Dio.netty.allocator.chunkSize: 4194304
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 170 - -Dio.netty.allocator.smallCacheSize: 256
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 171 - -Dio.netty.allocator.normalCacheSize: 64
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 175 - -Dio.netty.allocator.useCacheForAllThreads: false
+04-25-2024 18:16:58 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+04-25-2024 18:16:58 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 88 - -Dio.netty.allocator.type: pooled
+04-25-2024 18:16:58 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 97 - -Dio.netty.threadLocalDirectBufferSize: 0
+04-25-2024 18:16:58 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 100 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+04-25-2024 18:16:59 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 79 - -Dio.netty.processId: 12816 (auto-detected)
+04-25-2024 18:16:59 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 148 - -Djava.net.preferIPv4Stack: false
+04-25-2024 18:16:59 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 149 - -Djava.net.preferIPv6Addresses: false
+04-25-2024 18:16:59 NetUtilInitializations.java DEBUG [Forwarding newSession on session null to remote] util.NetUtilInitializations 145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+04-25-2024 18:16:59 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+04-25-2024 18:16:59 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 101 - -Dio.netty.machineId: 34:02:86:ff:fe:1d:55:b5 (auto-detected)
+04-25-2024 18:16:59 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 63 - -Dio.netty.buffer.checkAccessible: true
+04-25-2024 18:16:59 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 64 - -Dio.netty.buffer.checkBounds: true
+04-25-2024 18:16:59 ResourceLeakDetectorFactory.java DEBUG [AsyncHttpClient-1-2] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6c029307
+04-25-2024 18:17:00 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+04-25-2024 18:17:00 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 97 - -Dio.netty.recycler.ratio: 8
+04-25-2024 18:17:00 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 98 - -Dio.netty.recycler.chunkSize: 32
+04-25-2024 18:17:00 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 99 - -Dio.netty.recycler.blocking: false
+04-25-2024 18:17:00 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+04-25-2024 18:17:01 Brotli.java DEBUG [AsyncHttpClient-1-2] compression.Brotli 38 - brotli4j not in the classpath; Brotli support will be unavailable.
+04-25-2024 18:17:02 ThreadLocalRandom.java DEBUG [main] internal.ThreadLocalRandom 214 - -Dio.netty.initialSeedUniquifier: 0xffe1e6359672993e
+04-25-2024 18:17:04 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:04 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_CA.ftl"): Not found
+04-25-2024 18:17:04 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+04-25-2024 18:17:04 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+04-25-2024 18:17:04 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - "spark/macros/log.ftl"("en_CA", UTF-8, parsed) cached copy not yet stale; using cached.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/test.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/category.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/device.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/author.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_CA.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+04-25-2024 18:17:05 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_CA.ftl"): Not found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_CA.ftl"): Not found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+04-25-2024 18:17:06 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+04-25-2024 18:31:31 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:31:31 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:31:32 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:31:32 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:31:33 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:31:33 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:31:34 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:31:34 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:31:35 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:31:35 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:31:36 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:31:36 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:31:36 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:31:37 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:31:37 BaseClass.java INFO  [main] testCases.BaseClass 77 - >>>>>QUITTING<<<<
+04-25-2024 18:35:59 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:35:59 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:36:00 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:36:00 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:36:01 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:36:01 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:36:01 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:36:02 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:36:03 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:36:03 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:36:04 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:36:04 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:36:04 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:36:04 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:36:05 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:36:05 BaseClass.java INFO  [main] testCases.BaseClass 82 - >>>>>QUITTING<<<<
+04-25-2024 18:38:25 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:38:25 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:38:26 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:38:26 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:38:27 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:38:27 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:38:28 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:38:28 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:38:29 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:38:29 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:38:29 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:38:29 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:38:30 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:38:30 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:38:30 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:38:31 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<
+04-25-2024 18:54:18 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:54:18 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:54:20 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:54:20 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:54:21 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:54:21 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:54:22 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:54:22 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:54:23 BaseClass.java INFO  [main] testCases.BaseClass 81 - >>>>>QUITTING<<<<
+04-25-2024 18:55:14 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:55:14 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:55:15 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:55:15 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:55:16 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:55:16 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:55:16 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:55:17 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:55:24 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:55:24 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:55:25 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:55:25 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:55:26 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:55:26 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:55:27 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:55:27 BaseClass.java INFO  [main] testCases.BaseClass 81 - >>>>>QUITTING<<<<
+04-25-2024 18:56:44 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:56:44 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:56:45 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:56:45 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:56:46 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:56:47 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:56:47 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:56:47 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:56:48 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:56:48 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:56:49 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:56:49 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:56:49 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:56:49 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:56:50 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:56:50 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<
+04-25-2024 18:58:24 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:58:24 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:58:25 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:58:25 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:58:26 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:58:26 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:58:27 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:58:27 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:58:28 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:58:28 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:58:29 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:58:29 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:58:29 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:58:29 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:58:30 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:58:30 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<

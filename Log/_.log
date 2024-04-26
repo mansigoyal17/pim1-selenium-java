@@ -1,0 +1,369 @@
+04-26-2024 11:28:04 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-26-2024 11:28:04 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-26-2024 11:28:06 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-26-2024 11:28:06 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-26-2024 11:28:06 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-26-2024 11:28:07 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-26-2024 11:28:08 BaseClass.java INFO  [main] testCases.BaseClass 78 - >>>>>QUITTING<<<<
+04-26-2024 13:14:01 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-26-2024 13:14:01 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-26-2024 13:14:02 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-26-2024 13:14:02 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-26-2024 13:14:03 BaseClass.java INFO  [main] testCases.BaseClass 78 - >>>>>QUITTING<<<<
+04-26-2024 13:18:02 InternalLoggerFactory.java DEBUG [main] logging.InternalLoggerFactory 89 - Using Log4J as the default logging framework
+04-26-2024 13:18:02 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 129 - -Dio.netty.leakDetection.level: simple
+04-26-2024 13:18:02 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 130 - -Dio.netty.leakDetection.targetRecords: 4
+04-26-2024 13:18:02 ResourceLeakDetectorFactory.java DEBUG [main] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@13d9cbf5
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 496 - -Dio.netty.noUnsafe: false
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 1000 - Java version: 8
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 137 - sun.misc.Unsafe.theUnsafe: available
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 161 - sun.misc.Unsafe.copyMemory: available
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 193 - sun.misc.Unsafe.storeFence: available
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 236 - java.nio.Buffer.address: available
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 307 - direct buffer constructor: available
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 385 - java.nio.Bits.unaligned: available, true
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 459 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+04-26-2024 13:18:02 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 482 - java.nio.DirectByteBuffer.<init>(long, int): available
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1159 - sun.misc.Unsafe: available
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1289 - -Dio.netty.tmpdir: C:\Users\Mansi\AppData\Local\Temp (java.io.tmpdir)
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1119 - Platform: Windows
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 178 - -Dio.netty.maxDirectMemory: 1886912512 bytes
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+04-26-2024 13:18:02 CleanerJava6.java DEBUG [main] internal.CleanerJava6 92 - java.nio.ByteBuffer.cleaner(): available
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 205 - -Dio.netty.noPreferDirect: false
+04-26-2024 13:18:02 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1010 - org.jctools-core.MpscChunkedArrayQueue: available
+04-26-2024 13:18:03 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+04-26-2024 13:18:03 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+04-26-2024 13:18:03 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 83 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+04-26-2024 13:18:03 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+04-26-2024 13:18:03 GlobalEventExecutor.java DEBUG [main] concurrent.GlobalEventExecutor 53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+04-26-2024 13:18:03 MultithreadEventLoopGroup.java DEBUG [main] channel.MultithreadEventLoopGroup 44 - -Dio.netty.eventLoopThreads: 8
+04-26-2024 13:18:03 NioEventLoop.java DEBUG [main] nio.NioEventLoop 110 - -Dio.netty.noKeySetOptimization: false
+04-26-2024 13:18:03 NioEventLoop.java DEBUG [main] nio.NioEventLoop 111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 157 - -Dio.netty.allocator.numHeapArenas: 8
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 158 - -Dio.netty.allocator.numDirectArenas: 8
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 160 - -Dio.netty.allocator.pageSize: 8192
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 165 - -Dio.netty.allocator.maxOrder: 9
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 169 - -Dio.netty.allocator.chunkSize: 4194304
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 170 - -Dio.netty.allocator.smallCacheSize: 256
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 171 - -Dio.netty.allocator.normalCacheSize: 64
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 175 - -Dio.netty.allocator.useCacheForAllThreads: false
+04-26-2024 13:18:03 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+04-26-2024 13:18:03 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 88 - -Dio.netty.allocator.type: pooled
+04-26-2024 13:18:03 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 97 - -Dio.netty.threadLocalDirectBufferSize: 0
+04-26-2024 13:18:03 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 100 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+04-26-2024 13:18:04 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 79 - -Dio.netty.processId: 11132 (auto-detected)
+04-26-2024 13:18:04 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 148 - -Djava.net.preferIPv4Stack: false
+04-26-2024 13:18:04 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 149 - -Djava.net.preferIPv6Addresses: false
+04-26-2024 13:18:05 NetUtilInitializations.java DEBUG [Forwarding newSession on session null to remote] util.NetUtilInitializations 145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+04-26-2024 13:18:05 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+04-26-2024 13:18:05 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 101 - -Dio.netty.machineId: 34:02:86:ff:fe:1d:55:b5 (auto-detected)
+04-26-2024 13:18:05 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 63 - -Dio.netty.buffer.checkAccessible: true
+04-26-2024 13:18:05 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 64 - -Dio.netty.buffer.checkBounds: true
+04-26-2024 13:18:05 ResourceLeakDetectorFactory.java DEBUG [AsyncHttpClient-1-2] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@926ae95
+04-26-2024 13:18:05 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+04-26-2024 13:18:05 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 97 - -Dio.netty.recycler.ratio: 8
+04-26-2024 13:18:05 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 98 - -Dio.netty.recycler.chunkSize: 32
+04-26-2024 13:18:05 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 99 - -Dio.netty.recycler.blocking: false
+04-26-2024 13:18:05 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+04-26-2024 13:18:06 Brotli.java DEBUG [AsyncHttpClient-1-2] compression.Brotli 38 - brotli4j not in the classpath; Brotli support will be unavailable.
+04-26-2024 13:18:06 ThreadLocalRandom.java DEBUG [main] internal.ThreadLocalRandom 214 - -Dio.netty.initialSeedUniquifier: 0x9f6b21ff8b868d5a
+04-26-2024 13:18:07 TestCase1.java INFO  [main] testCases.TestCase1 37 - <---Test Case 1--->
+04-26-2024 13:18:07 TestCase1.java INFO  [main] testCases.TestCase1 41 - <---SignUp--->
+04-26-2024 13:18:08 TestCase1.java INFO  [main] testCases.TestCase1 44 - Username input for Signup done
+04-26-2024 13:18:08 TestCase1.java INFO  [main] testCases.TestCase1 46 - Password input for Signup done
+04-26-2024 13:18:09 TestCase1.java INFO  [main] testCases.TestCase1 55 - User Already Exists
+04-26-2024 13:18:09 TestCase1.java INFO  [main] testCases.TestCase1 66 - <---Login--->
+04-26-2024 13:18:10 TestCase1.java INFO  [main] testCases.TestCase1 69 - Username input for login done
+04-26-2024 13:18:10 TestCase1.java INFO  [main] testCases.TestCase1 71 - Password input for login done
+04-26-2024 13:18:11 TestCase1.java INFO  [main] testCases.TestCase1 76 - <---Login Successful--->
+04-26-2024 13:18:11 TestCase1.java INFO  [main] testCases.TestCase1 78 - <---Logout--->
+04-26-2024 13:18:11 TestCase1.java INFO  [main] testCases.TestCase1 84 - <---Logout Successful--->
+04-26-2024 13:18:11 TestCase1.java INFO  [main] testCases.TestCase1 90 - <---Login Invalid User--->
+04-26-2024 13:18:12 TestCase1.java INFO  [main] testCases.TestCase1 93 - Invalid username input for login done
+04-26-2024 13:18:12 TestCase1.java INFO  [main] testCases.TestCase1 95 - Invalid password input for login done
+04-26-2024 13:18:13 TestCase1.java INFO  [main] testCases.TestCase1 102 - Invalid user
+04-26-2024 13:18:13 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - "spark/macros/log.ftl"("en_CA", UTF-8, parsed) cached copy not yet stale; using cached.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/test.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/category.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/device.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/author.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_CA.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+04-26-2024 13:18:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+04-26-2024 13:21:30 InternalLoggerFactory.java DEBUG [main] logging.InternalLoggerFactory 89 - Using Log4J as the default logging framework
+04-26-2024 13:21:30 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 129 - -Dio.netty.leakDetection.level: simple
+04-26-2024 13:21:30 ResourceLeakDetector.java DEBUG [main] util.ResourceLeakDetector 130 - -Dio.netty.leakDetection.targetRecords: 4
+04-26-2024 13:21:30 ResourceLeakDetectorFactory.java DEBUG [main] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@13d9cbf5
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 496 - -Dio.netty.noUnsafe: false
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 1000 - Java version: 8
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 137 - sun.misc.Unsafe.theUnsafe: available
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 161 - sun.misc.Unsafe.copyMemory: available
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 193 - sun.misc.Unsafe.storeFence: available
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 236 - java.nio.Buffer.address: available
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 307 - direct buffer constructor: available
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 385 - java.nio.Bits.unaligned: available, true
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 459 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+04-26-2024 13:21:30 PlatformDependent0.java DEBUG [main] internal.PlatformDependent0 482 - java.nio.DirectByteBuffer.<init>(long, int): available
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1159 - sun.misc.Unsafe: available
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1289 - -Dio.netty.tmpdir: C:\Users\Mansi\AppData\Local\Temp (java.io.tmpdir)
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1119 - Platform: Windows
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 178 - -Dio.netty.maxDirectMemory: 1886912512 bytes
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+04-26-2024 13:21:30 CleanerJava6.java DEBUG [main] internal.CleanerJava6 92 - java.nio.ByteBuffer.cleaner(): available
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 205 - -Dio.netty.noPreferDirect: false
+04-26-2024 13:21:30 PlatformDependent.java DEBUG [main] internal.PlatformDependent 1010 - org.jctools-core.MpscChunkedArrayQueue: available
+04-26-2024 13:21:30 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 100 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+04-26-2024 13:21:30 InternalThreadLocalMap.java DEBUG [main] internal.InternalThreadLocalMap 101 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+04-26-2024 13:21:31 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 83 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+04-26-2024 13:21:31 JdkSslContext.java DEBUG [main] ssl.JdkSslContext 84 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+04-26-2024 13:21:31 GlobalEventExecutor.java DEBUG [main] concurrent.GlobalEventExecutor 53 - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+04-26-2024 13:21:31 MultithreadEventLoopGroup.java DEBUG [main] channel.MultithreadEventLoopGroup 44 - -Dio.netty.eventLoopThreads: 8
+04-26-2024 13:21:31 NioEventLoop.java DEBUG [main] nio.NioEventLoop 110 - -Dio.netty.noKeySetOptimization: false
+04-26-2024 13:21:31 NioEventLoop.java DEBUG [main] nio.NioEventLoop 111 - -Dio.netty.selectorAutoRebuildThreshold: 512
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 157 - -Dio.netty.allocator.numHeapArenas: 8
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 158 - -Dio.netty.allocator.numDirectArenas: 8
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 160 - -Dio.netty.allocator.pageSize: 8192
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 165 - -Dio.netty.allocator.maxOrder: 9
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 169 - -Dio.netty.allocator.chunkSize: 4194304
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 170 - -Dio.netty.allocator.smallCacheSize: 256
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 171 - -Dio.netty.allocator.normalCacheSize: 64
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 172 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 173 - -Dio.netty.allocator.cacheTrimInterval: 8192
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 174 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 175 - -Dio.netty.allocator.useCacheForAllThreads: false
+04-26-2024 13:21:31 PooledByteBufAllocator.java DEBUG [main] buffer.PooledByteBufAllocator 176 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+04-26-2024 13:21:31 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 88 - -Dio.netty.allocator.type: pooled
+04-26-2024 13:21:31 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 97 - -Dio.netty.threadLocalDirectBufferSize: 0
+04-26-2024 13:21:31 ByteBufUtil.java DEBUG [main] buffer.ByteBufUtil 100 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+04-26-2024 13:21:31 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 79 - -Dio.netty.processId: 7420 (auto-detected)
+04-26-2024 13:21:31 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 148 - -Djava.net.preferIPv4Stack: false
+04-26-2024 13:21:31 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 149 - -Djava.net.preferIPv6Addresses: false
+04-26-2024 13:21:32 NetUtilInitializations.java DEBUG [Forwarding newSession on session null to remote] util.NetUtilInitializations 145 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+04-26-2024 13:21:32 NetUtil.java DEBUG [Forwarding newSession on session null to remote] util.NetUtil 206 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+04-26-2024 13:21:32 DefaultChannelId.java DEBUG [Forwarding newSession on session null to remote] channel.DefaultChannelId 101 - -Dio.netty.machineId: 34:02:86:ff:fe:1d:55:b5 (auto-detected)
+04-26-2024 13:21:32 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 63 - -Dio.netty.buffer.checkAccessible: true
+04-26-2024 13:21:32 AbstractByteBuf.java DEBUG [AsyncHttpClient-1-2] buffer.AbstractByteBuf 64 - -Dio.netty.buffer.checkBounds: true
+04-26-2024 13:21:32 ResourceLeakDetectorFactory.java DEBUG [AsyncHttpClient-1-2] util.ResourceLeakDetectorFactory 196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@fb08503
+04-26-2024 13:21:32 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+04-26-2024 13:21:32 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 97 - -Dio.netty.recycler.ratio: 8
+04-26-2024 13:21:32 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 98 - -Dio.netty.recycler.chunkSize: 32
+04-26-2024 13:21:32 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 99 - -Dio.netty.recycler.blocking: false
+04-26-2024 13:21:32 Recycler.java DEBUG [AsyncHttpClient-1-2] util.Recycler 100 - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+04-26-2024 13:21:33 Brotli.java DEBUG [AsyncHttpClient-1-2] compression.Brotli 38 - brotli4j not in the classpath; Brotli support will be unavailable.
+04-26-2024 13:21:33 ThreadLocalRandom.java DEBUG [main] internal.ThreadLocalRandom 214 - -Dio.netty.initialSeedUniquifier: 0x89373ad611952998
+04-26-2024 13:21:35 TestCase1.java INFO  [main] testCases.TestCase1 37 - <---Test Case 1--->
+04-26-2024 13:21:35 TestCase1.java INFO  [main] testCases.TestCase1 41 - <---SignUp--->
+04-26-2024 13:21:36 TestCase1.java INFO  [main] testCases.TestCase1 44 - Username input for Signup done
+04-26-2024 13:21:36 TestCase1.java INFO  [main] testCases.TestCase1 46 - Password input for Signup done
+04-26-2024 13:21:36 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_CA.ftl"): Not found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_CA.ftl"): Not found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+04-26-2024 13:21:37 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - "spark/macros/log.ftl"("en_CA", UTF-8, parsed) cached copy not yet stale; using cached.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/test.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/category.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/device.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/author.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed); will try to load it.
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_CA.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+04-26-2024 13:21:38 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Mansi/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

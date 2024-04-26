@@ -1,0 +1,16 @@
+04-25-2024 18:46:38 TestCase1.java INFO  [main] testCases.TestCase1 36 - <---Test Case 1--->
+04-25-2024 18:46:38 TestCase1.java INFO  [main] testCases.TestCase1 40 - <---SignUp--->
+04-25-2024 18:46:39 TestCase1.java INFO  [main] testCases.TestCase1 43 - Username input for Signup done
+04-25-2024 18:46:39 TestCase1.java INFO  [main] testCases.TestCase1 45 - Password input for Signup done
+04-25-2024 18:46:39 TestCase1.java INFO  [main] testCases.TestCase1 54 - User Already Exists
+04-25-2024 18:46:40 TestCase1.java INFO  [main] testCases.TestCase1 65 - <---Login--->
+04-25-2024 18:46:41 TestCase1.java INFO  [main] testCases.TestCase1 68 - Username input for login done
+04-25-2024 18:46:41 TestCase1.java INFO  [main] testCases.TestCase1 70 - Password input for login done
+04-25-2024 18:46:42 TestCase1.java INFO  [main] testCases.TestCase1 75 - <---Login Successful--->
+04-25-2024 18:46:42 TestCase1.java INFO  [main] testCases.TestCase1 77 - <---Logout--->
+04-25-2024 18:46:43 TestCase1.java INFO  [main] testCases.TestCase1 83 - <---Logout Successful--->
+04-25-2024 18:46:43 TestCase1.java INFO  [main] testCases.TestCase1 89 - <---Login Invalid User--->
+04-25-2024 18:46:43 TestCase1.java INFO  [main] testCases.TestCase1 92 - Invalid username input for login done
+04-25-2024 18:46:43 TestCase1.java INFO  [main] testCases.TestCase1 94 - Invalid password input for login done
+04-25-2024 18:46:44 TestCase1.java INFO  [main] testCases.TestCase1 101 - Invalid user
+04-25-2024 18:46:44 BaseClass.java INFO  [main] testCases.BaseClass 79 - >>>>>QUITTING<<<<
